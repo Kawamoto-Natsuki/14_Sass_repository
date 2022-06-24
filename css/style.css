@@ -1,0 +1,13 @@
+body {
+  background-color: #000;
+}
+body h1 {
+  width: 180px;
+  background-color: yellow;
+}
+body p {
+  color: red;
+}
+body ul li {
+  color: #fff;
+}
